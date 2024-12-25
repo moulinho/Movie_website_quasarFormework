@@ -26,5 +26,4 @@ let onSearch = (params) => {
   movieStore.fetchSearchMovie(params.search);
 };
 </script>
-<style>
-</style>
+<style></style>
