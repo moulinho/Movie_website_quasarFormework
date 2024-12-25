@@ -3,7 +3,7 @@
     <q-header class="q-pa-sm" style="background: #abb8c3">
       <q-toolbar>
         <q-toolbar-title class="text-bold" style="color: #000550">
-          Test-movie
+          Movie Store
         </q-toolbar-title>
 
         <EssentialLink
